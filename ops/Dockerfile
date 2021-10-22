@@ -1,4 +1,4 @@
-FROM golang:1.12.7
+FROM golang:bullseye
 
 LABEL maintainer="Nikhil Saraf <Github: @nikhilsaraf>"
 
